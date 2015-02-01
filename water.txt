@@ -1,0 +1,7 @@
+Ingredient:
+ - water
+
+Direction:
+1. Heat the water until boiled
+2. Wait 3 min
+3. Done
